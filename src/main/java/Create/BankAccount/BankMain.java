@@ -9,9 +9,12 @@ package Create.BankAccount;
 
 public class BankMain {
     public static void main(String[] args) {
-      BankAccount bankAccount = new BankAccount("Sabari1995",10000,5);
+      BankAccount bankAccount = new BankAccount("Sabari1995",500,5,"Sabari");
       int time = 2;
         System.out.println("Simple Interest is: "+bankAccount.getSimpleInterest(time));
         System.out.println("Balance with interest: "+bankAccount.getBalanceWithInterest(time));
+
+        bankAccount.deposit(200);
+        bankAccount.withdraw(100);
     }
 }
