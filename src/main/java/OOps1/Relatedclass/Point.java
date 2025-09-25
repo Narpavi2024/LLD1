@@ -1,4 +1,4 @@
-package Relatedclass;
+package OOps1.Relatedclass;
 
 //Create a class Point. It should have 2 data-members
 //

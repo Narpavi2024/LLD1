@@ -1,4 +1,4 @@
-package Create.BankAccount;
+package OOps1.BankAccount;
 //It should have 3 data members
 //accountNumber: String
 //balance: int

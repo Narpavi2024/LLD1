@@ -1,4 +1,4 @@
-package Create.BankAccount;
+package OOps1.BankAccount;
 
 //Create a new java file BankAccount.java and define a simple  BankAccountclass represents a bankAccount.
 //Add two Fields: balance(double) and ownerName(String).

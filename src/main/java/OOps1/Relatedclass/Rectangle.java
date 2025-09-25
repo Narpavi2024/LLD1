@@ -1,4 +1,4 @@
-package Relatedclass;
+package OOps1.Relatedclass;
 
 public class Rectangle {
     Point topLeft;

@@ -1,4 +1,4 @@
-package Relatedclass;
+package OOps1.Relatedclass;
 
 public class RelatedMain {
     public static void main(String[] args) {

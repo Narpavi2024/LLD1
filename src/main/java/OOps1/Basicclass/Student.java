@@ -1,4 +1,4 @@
-package org.example.Basicclass;
+package OOps1.Basicclass;
 
 //Create a Student class satisfying following requirements
 //
