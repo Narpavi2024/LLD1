@@ -1,4 +1,4 @@
-package NodeConstructor;
+package OOPS2.Createclass.NodeConstructor;
 //Create a Node class with following requirements
 //
 //        Two data members

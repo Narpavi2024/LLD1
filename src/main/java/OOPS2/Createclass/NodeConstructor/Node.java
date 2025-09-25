@@ -1,4 +1,4 @@
-package NodeConstructor;
+package OOPS2.Createclass.NodeConstructor;
 
 public class Node {
     int data;
