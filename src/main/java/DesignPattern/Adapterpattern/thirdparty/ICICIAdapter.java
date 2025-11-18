@@ -1,6 +1,6 @@
-package Adapterpattern.thirdparty;
+package DesignPattern.Adapterpattern.thirdparty;
 
-import Adapterpattern.thirdparty.ICICIBank.IciciBank;
+import DesignPattern.Adapterpattern.thirdparty.ICICIBank.IciciBank;
 
 public class ICICIAdapter implements BankApi{
     private IciciBank iciciBank = new IciciBank();

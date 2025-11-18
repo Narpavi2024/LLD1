@@ -1,4 +1,4 @@
-package Adapterpattern.thirdparty;
+package DesignPattern.Adapterpattern.thirdparty;
 
 public class Phonepe {
     private static BankApi bankApi;

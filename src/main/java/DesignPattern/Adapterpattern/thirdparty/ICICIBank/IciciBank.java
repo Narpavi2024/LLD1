@@ -1,4 +1,4 @@
-package Adapterpattern.thirdparty.ICICIBank;
+package DesignPattern.Adapterpattern.thirdparty.ICICIBank;
 
 public class IciciBank {
 

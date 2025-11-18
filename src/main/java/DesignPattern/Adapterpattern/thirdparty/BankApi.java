@@ -1,4 +1,4 @@
-package Adapterpattern.thirdparty;
+package DesignPattern.Adapterpattern.thirdparty;
 
 public interface BankApi {
     void sendMoney(String from,String to,int amount);
